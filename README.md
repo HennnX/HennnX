@@ -1,9 +1,5 @@
-Hello, i'm Hen X
-- i interested learning :
-<div
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-</div>
+Hello, i'm Hen X <img src="https://github.com/HennnX/HennnX/blob/main/Grow%20HX.png" title="HX" alt="HX" width="25" height="25"/>&nbsp;
+- i interested learning : Node Js, Java, C++
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
